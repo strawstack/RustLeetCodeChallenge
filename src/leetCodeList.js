@@ -1,7 +1,6 @@
 export const leetCodeList = [
   'root-equals-sum-of-children',
   'add-two-integers',
-  'the-users-that-are-eligible-for-discount',
   'calculate-digit-sum-of-a-string',
   'find-closest-number-to-zero',
   'minimum-number-of-operations-to-convert-time',
